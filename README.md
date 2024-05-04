@@ -1,6 +1,6 @@
 ## Built With
 
-My personal portfolio <a href="#" target="_blank"> UN.</a> which features some of my github projects and technical skills.<br/>
+My personal <a href="#" target="_blank"> portfolio </a> which features some of my github projects and technical skills.<br/>
 
 This project was built using these technologies.
 
